@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Przemysław Trubiło\\OneDrive\\Pulpit\\Foldery\\Studia\\Programowanie obiektowe\\C#\\Zaliczenia\\Klasa Prostokąt\\PrzemysławTrubiłoZad2\\PrzemysławTrubiłoZad2\\PrzemysławTrubiłoZad2.csproj": {}
+    "C:\\Users\\Przemysław Trubiło\\OneDrive\\Pulpit\\Foldery\\Studia\\Programowanie obiektowe\\C#\\Zaliczenia\\Klasa Osoba\\PrzemysławTrubiłoZad1\\PrzemysławTrubiłoZad1\\PrzemysławTrubiłoZad1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Przemysław Trubiło\\OneDrive\\Pulpit\\Foldery\\Studia\\Programowanie obiektowe\\C#\\Zaliczenia\\Klasa Prostokąt\\PrzemysławTrubiłoZad2\\PrzemysławTrubiłoZad2\\PrzemysławTrubiłoZad2.csproj": {
+    "C:\\Users\\Przemysław Trubiło\\OneDrive\\Pulpit\\Foldery\\Studia\\Programowanie obiektowe\\C#\\Zaliczenia\\Klasa Osoba\\PrzemysławTrubiłoZad1\\PrzemysławTrubiłoZad1\\PrzemysławTrubiłoZad1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Przemysław Trubiło\\OneDrive\\Pulpit\\Foldery\\Studia\\Programowanie obiektowe\\C#\\Zaliczenia\\Klasa Prostokąt\\PrzemysławTrubiłoZad2\\PrzemysławTrubiłoZad2\\PrzemysławTrubiłoZad2.csproj",
-        "projectName": "PrzemysławTrubiłoZad2",
-        "projectPath": "C:\\Users\\Przemysław Trubiło\\OneDrive\\Pulpit\\Foldery\\Studia\\Programowanie obiektowe\\C#\\Zaliczenia\\Klasa Prostokąt\\PrzemysławTrubiłoZad2\\PrzemysławTrubiłoZad2\\PrzemysławTrubiłoZad2.csproj",
+        "projectUniqueName": "C:\\Users\\Przemysław Trubiło\\OneDrive\\Pulpit\\Foldery\\Studia\\Programowanie obiektowe\\C#\\Zaliczenia\\Klasa Osoba\\PrzemysławTrubiłoZad1\\PrzemysławTrubiłoZad1\\PrzemysławTrubiłoZad1.csproj",
+        "projectName": "PrzemysławTrubiłoZad1",
+        "projectPath": "C:\\Users\\Przemysław Trubiło\\OneDrive\\Pulpit\\Foldery\\Studia\\Programowanie obiektowe\\C#\\Zaliczenia\\Klasa Osoba\\PrzemysławTrubiłoZad1\\PrzemysławTrubiłoZad1\\PrzemysławTrubiłoZad1.csproj",
         "packagesPath": "C:\\Users\\Przemysław Trubiło\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Przemysław Trubiło\\OneDrive\\Pulpit\\Foldery\\Studia\\Programowanie obiektowe\\C#\\Zaliczenia\\Klasa Prostokąt\\PrzemysławTrubiłoZad2\\PrzemysławTrubiłoZad2\\obj\\",
+        "outputPath": "C:\\Users\\Przemysław Trubiło\\OneDrive\\Pulpit\\Foldery\\Studia\\Programowanie obiektowe\\C#\\Zaliczenia\\Klasa Osoba\\PrzemysławTrubiłoZad1\\PrzemysławTrubiłoZad1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
